@@ -8,7 +8,7 @@ Based in **Guelph, ON**, I recently graduated with a degree in Computer Science.
 
 ## Skills & Technologies
 
-c,cs,python,sql,py,js,tshtml,css,docker,git,github,flask,fastapi,react,postgres,mysql
+[![My Skills](https://skillicons.dev/icons?i=c,cs,py,js,ts,html,css,docker,git)](https://skillicons.dev)
 
 ## Top Projects
 
