@@ -13,16 +13,16 @@ Based in **Guelph, ON**, I recently graduated with a degree in Computer Science.
 ## Top Projects
 
 - [**real-estate-management-system**](https://github.com/cLucinski/real-estate-management-system): A C# Windows Forms application for managing real estate properties, featuring OOP principles, collections, serialization, and a three-layer architecture. 🏠
-  - Stars: 1 | Language: C | Forks: 0 | Issues: 0
+  - Language: C#   
 
 - [**project-flood**](https://github.com/cLucinski/project-flood): Identifying flood-prone areas with elevation data. 🌊
-  - Stars: 0 | Language: Jupyter Notebook | Forks: 0 | Issues: 0
+  - Language: Jupyter Notebook  
 
 - [**spotify-extended-history-analysis**](https://github.com/cLucinski/spotify-extended-history-analysis): A project to take a user's Spotify Extended Streaming History and display insights from it. 🎵
-  - Stars: 0 | Language: Python | Forks: 0 | Issues: 6
+  - Language: Python  
 
 - [**imdbDatabaseExplorer**](https://github.com/cLucinski/imdbDatabaseExplorer): Program that utilizes IMDb TSV files to build binary search trees for actor and movie retrieval. 🎬
-  - Stars: 1 | Language: C | Forks: 0 | Issues: 0
+  - Language: C  
 
 ## GitHub Stats
 
