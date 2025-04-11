@@ -40,5 +40,4 @@ Based in **Guelph, ON**, I recently graduated with a degree in Computer Science.
 
 
 ## Connect with Me
-
-{"linkedin":"https://www.linkedin.com/in/christopher-lucinski/"}
+[**LinkedIn**](https://www.linkedin.com/in/christopher-lucinski/)
