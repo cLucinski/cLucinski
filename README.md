@@ -12,6 +12,9 @@ Based in **Guelph, ON**, I recently graduated with a degree in Computer Science.
 
 ## Top Projects
 
+- [**real-estate-management-system**](https://github.com/cLucinski/real-estate-management-system): A C# Windows Forms application for managing real estate properties, featuring OOP principles, collections, serialization, and a three-layer architecture. 🏠
+  - Stars: 1 | Language: C | Forks: 0 | Issues: 0
+
 - [**project-flood**](https://github.com/cLucinski/project-flood): Identifying flood-prone areas with elevation data. 🌊
   - Stars: 0 | Language: Jupyter Notebook | Forks: 0 | Issues: 0
 
