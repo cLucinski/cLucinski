@@ -4,7 +4,9 @@ I'm **Christopher Lucinski**, a passionate computer science co-op graduate from 
 
 ## About Me
 
-Based in **Guelph, ON**, I recently graduated with a degree in Computer Science. I'm eager to take on new challenges and contribute to exciting projects. My journey in tech has equipped me with a diverse skill set, and I'm always looking to learn more.
+Based in **Guelph, ON**, I graduated with a degree in Computer Science. I'm eager to take on new challenges and contribute to exciting projects. My journey in tech has equipped me with a diverse skill set, and I'm always looking to learn more.
+
+## [Personal Portfolio](https://clucinski.github.io/christopher-lucinski/)
 
 ## Skills & Technologies
 
