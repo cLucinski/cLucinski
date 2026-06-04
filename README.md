@@ -14,14 +14,14 @@ Based in **Guelph, ON**, I graduated with a degree in Computer Science. I'm eage
 
 ## Top Projects
 
+- [**spotify-extended-history-analysis**](https://github.com/cLucinski/spotify-extended-history-analysis): A project to take a user's Spotify Extended Streaming History and display insights from it. 🎵
+  - Language: Python
+
 - [**real-estate-management-system**](https://github.com/cLucinski/real-estate-management-system): A C# Windows Forms application for managing real estate properties, featuring OOP principles, collections, serialization, and a three-layer architecture. 🏠
   - Language: C#   
 
-- [**project-flood**](https://github.com/cLucinski/project-flood): Identifying flood-prone areas with elevation data. 🌊
-  - Language: Jupyter Notebook  
-
-- [**spotify-extended-history-analysis**](https://github.com/cLucinski/spotify-extended-history-analysis): A project to take a user's Spotify Extended Streaming History and display insights from it. 🎵
-  - Language: Python  
+- [**clickbait-detection**](https://github.com/cLucinski/clickbait-detection): Exploring the application of Natural Language Processing (NLP) and machine learning to automatically identify clickbait headlines.
+  - Language: Jupyter Notebook   
 
 - [**imdbDatabaseExplorer**](https://github.com/cLucinski/imdbDatabaseExplorer): Program that utilizes IMDb TSV files to build binary search trees for actor and movie retrieval. 🎬
   - Language: C  
@@ -32,14 +32,6 @@ Based in **Guelph, ON**, I graduated with a degree in Computer Science. I'm eage
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cLucinski&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cLucinski&layout=compact&theme=radical)
-
-## Recent Activity
-
-- Pushed new features to [spotify-extended-history-analysis](https://github.com/cLucinski/spotify-extended-history-analysis)  
-- Updated [project-flood](https://github.com/cLucinski/project-flood) README  
-- Created a new repository for personal portfolio [christopher-lucinski](https://github.com/cLucinski/christopher-lucinski)  
-- Contributed to various open source projects and participated in discussions.
-
 
 ## Connect with Me
 [**LinkedIn**](https://www.linkedin.com/in/christopher-lucinski/)
